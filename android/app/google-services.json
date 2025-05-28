@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "666806924822",
+    "project_id": "weview-365ae",
+    "storage_bucket": "weview-365ae.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666806924822:android:7b5d26afc8dfbbb7a76737",
+        "android_client_info": {
+          "package_name": "com.kintree.weview.weview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666806924822-mb45acp53lidajg6bu12s8clt17crp81.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlCVb5mYIuhTjnAP0-cz9GmzJLuEkvtAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "666806924822-mb45acp53lidajg6bu12s8clt17crp81.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "666806924822-a97453dm9u1mh367d27cr2u0lbmtfqbg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kintree.weview.weview"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
